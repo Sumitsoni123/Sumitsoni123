@@ -1,3 +1,4 @@
+![logo](Black Yellow Modern Programmer LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Soni</h1>
 <h3 align="center">A passionate JS fullStack developer at Ideacrest Solutions Pvt Ltd</h3>
 
