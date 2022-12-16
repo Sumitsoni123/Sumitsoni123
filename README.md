@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar Soni</h1>
 <h3 align="center">A passionate JS fullStack developer at Ideacrest Solutions Pvt Ltd</h3>
 
-<img align="right" alt="coder" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGouravSingh2580&psig=AOvVaw3e8AeMp1MhXjBqMiiPK3Qt&ust=1671262517775000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICgq5fQ_fsCFQAAAAAdAAAAABAJ">
+<img align="right" alt="coder" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodersera.com%2Fblog%2F10-steps-to-become-a-top-coder%2F&psig=AOvVaw1TqFfPXTE6NZ_Vea7LyrDA&ust=1671264657967000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODo85PY_fsCFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsoni123&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsoni123" /> </p>
 
