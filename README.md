@@ -1,3 +1,4 @@
+![logo] ("https://github.com/Sumitsoni123/Sumitsoni123/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png")
 <h1 align="center">Hi 👋, I'm Sumit Kumar Soni</h1>
 <h3 align="center">A passionate JS fullStack developer at Ideacrest Solutions Pvt Ltd</h3>
 
